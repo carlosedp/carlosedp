@@ -1,7 +1,5 @@
 ### Howdy! 👋
 
-<img src="CarlosEDP.jpg" alt="Me" width="200"/>
-
 My name is Carlos Eduardo, I'm an open source enthusiast living in São Paulo/Brazil. I'm interested in all things about technology, from low level hardware, FPGAs and infrastructure to software development in a multitude of languages like Golang, Python, Scala, Erlang and many more.
 
 I work at Red Hat as a Cloud Architect and I'm a [RISC-V Ambassador](https://riscv.org/community/ambassadors/). Write about cloud computing, hardware, FPGAs and development at [carlosedp.com](https://carlosedp.com).
