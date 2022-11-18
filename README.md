@@ -25,7 +25,7 @@ I work at Red Hat as a Cloud Architect and I'm a [RISC-V Ambassador](https://ris
 
 ### Contacts / Contatos
 
-* Mastodon: <a rel="me" href="https://fosstodon.org/@carlosedp">carlosedp@fosstodon.org</a>
+* Mastodon: <a rel="me" href="https://fosstodon.org/@carlosedp">https://fosstodon.org/@carlosedp</a>
 * Twitter: https://twitter.com/carlosedp
 * Articles: https://carlosedp.com
 * YouTube: https://youtube.com/c/carlosedp
