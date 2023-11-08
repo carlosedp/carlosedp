@@ -1,4 +1,4 @@
-### Howdy! 👋
+### Hey! 👋
 
 My name is Carlos Eduardo, I'm an open source enthusiast living in São Paulo/Brazil. I'm interested in all things about technology, from low level hardware, FPGAs and infrastructure to software development in a multitude of languages like Golang, Python, Scala, Erlang and many more.
 
