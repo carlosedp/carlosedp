@@ -38,6 +38,7 @@ jobs:
           plugin_languages_categories: programming
           plugin_languages_recent_categories: programming, markup
           plugin_languages_other: true
+          plugin_languages_ignored: HTML, CSS, TeX
           #plugin_languages_indepth: yes
 
           plugin_gists: yes
