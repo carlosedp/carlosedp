@@ -18,8 +18,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
+          filename: github-metrics.svg
 
           # Options
           user: carlosedp
