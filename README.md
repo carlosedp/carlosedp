@@ -18,7 +18,7 @@ I work at Red Hat as a Cloud Architect and I'm a [RISC-V Ambassador](https://ris
 
 ### ✨ Some Github Stats ✨
 
-![Metrics](https://raw.githubusercontent.com/carlosedp/carlosedp/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/carlosedp/carlosedp/github-metrics/github-metrics.svg)
 
 ### Interests
 
