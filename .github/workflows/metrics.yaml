@@ -16,8 +16,6 @@ jobs:
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_message: "build: update `${filename}`"
           committer_branch: github-metrics
           filename: github-metrics.svg
